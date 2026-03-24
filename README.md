@@ -9,7 +9,7 @@ PHP 8.1+, ext-curl, ext-json
 ## Installation
 
 ```bash
-composer require nexus-ai/nexus
+composer require cagri/nexus
 ```
 
 ## Quick Start
