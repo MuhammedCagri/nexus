@@ -1,0 +1,10 @@
+/vendor/
+/composer.lock
+/.phpunit.cache/
+/.phpstan/
+/build/
+/.claude/
+.env
+.DS_Store
+*.swp
+*.swo
