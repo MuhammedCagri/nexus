@@ -150,6 +150,10 @@ src/
 └── Tool/            AttributeTool, Parameter, ToolRegistry, Attribute/{AsTool, Param}
 ```
 
+## Built with
+
+Built with the assistance of [Claude Code](https://claude.com/product/claude-code).
+
 ## License
 
 MIT
